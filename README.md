@@ -13,7 +13,7 @@ We are trading AAPL stock, since it is stable company that has been in up-trend 
 <b>Trading Data</b><br>
 We are loading daily data from yahoo finance from year 2000 until end of 2021.
 
-Bellow condition is trying to make sure we are trading in upper trend. Trades will be done only with long position
+Bellow condition is trying to make sure we are trading in upper trend. Trades will be done only with long position.
 
 <b>Traded formation</b><br>
 Condition 1: <i>Last candle high is higher than previous candle high</i><br>

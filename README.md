@@ -26,7 +26,7 @@ Condition 4: <i>EMA8 is higher than EMA16</i><br>
 
 
 
-We are getting windows from stock dataset, each window has 4 rows (4 candles) representing formation of 3 rows (formation) + 1 row (label).Our above condition is using only 1st two candles from formation, however model will be trained on 3 candles
+We are getting windows from stock dataset, each window has 4 rows (4 candles), 3 rows (formation) + 1 row (label).Our above condition is using only 1st two candles from formation, however model will be trained on 3 candles
 
 <b>Trading performance</b><br>
 On validation dataset (from 8.2018 - 12.2021, cca 3 years and 4 months) model achieved 28% return, also there must be pointed out, the model does not subtract trading fees, so, the return 28% must be decreased by amounth broker is charging per each trade.

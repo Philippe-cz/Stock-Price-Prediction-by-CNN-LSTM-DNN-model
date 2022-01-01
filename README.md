@@ -1,3 +1,6 @@
+<i>DISCLAIMER:<br>
+This repository is only for informative purpose, i renounce any responsibility regarding this code and trained model causing loss of money during trading on real market.</i>
+
 # Stock-Price-Prediction-by-CNN-LSTM-model
 # Stock price prediction : AAPL
 

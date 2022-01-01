@@ -30,4 +30,4 @@ On validation dataset (from 8.2018 - 12.2021, cca 3 years and 4 months) model ac
 
 <b>Trading formation sample</b>
 
-<img src="AAPL Formation.jpg" width=550 height=500 align="left">
+<img src="AAPL Formation.jpg" width=600 height=500 align="left">

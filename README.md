@@ -27,3 +27,7 @@ We are getting windows from stock dataset, each window has 4 rows (4 candles) re
 
 <b>Trading performance</b><br>
 On validation dataset (from 8.2018 - 12.2021, cca 3 years and 4 months) model achieved 28% return, also there must be pointed out, the model does not subtract trading fees, so, the return 28% must be decreased by amounth broker is charging per each trade.
+
+<b>Trading formation sample</b>
+
+<img src="AAPL Formation.jpg" width=550 height=500 align="left">

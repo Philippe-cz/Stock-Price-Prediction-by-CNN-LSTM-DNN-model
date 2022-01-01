@@ -11,7 +11,7 @@ Exit price: Model is trying to predict High price of newly formed candle after o
 We are trading AAPL stock, since it is stable company that has been in up-trend from its foundation.
 
 <b>Trading Data</b><br>
-We are loading daily data from yahoo finance from year 2000 up until end of 2021.
+We are loading daily data from yahoo finance from year 2000 until end of 2021.
 
 Bellow condition is trying to make sure we are trading in upper trend. Trades will be done only with long position
 

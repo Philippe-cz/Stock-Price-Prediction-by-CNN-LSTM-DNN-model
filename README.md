@@ -19,7 +19,7 @@ We are loading daily data from yahoo finance from year 2000 until end of 2021.
 Bellow condition is trying to make sure we are trading in upper trend. Trades will be done only with long position.
 
 <b>Traded formation</b><br>
-Condition 1: <i>Last candle high is higher than previous candle high</i><br>
+Condition 1: <i>Last candle <b>high</b> is higher than previous candle high</i><br>
 Condition 2: <i>Last candle <b>high</b> is higher than Exponential moving average 4</i><br>
 Condition 3: <i>EMA4 is higher than EMA8</i><br>
 Condition 4: <i>EMA8 is higher than EMA16</i><br>
